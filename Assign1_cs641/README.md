@@ -1,3 +1,9 @@
+# Level 1
+
+## Steps to reach ciphertext
+
+climb read enter read 
+
 ## Decryption method used
 
 Substitution Cipher for letters, Caesar cipher for digits and right\\
