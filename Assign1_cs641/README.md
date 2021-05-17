@@ -1,12 +1,12 @@
 # Level 1
-
+### **Caesar shift cipher**
 ## Steps to reach ciphertext
 
 climb read enter read 
 
 ## Decryption method used
 
-Substitution Cipher for letters, Caesar cipher for digits and right\\
+Substitution Cipher for letters, Caesar cipher for digits and right shift
 
 ## Ciphertext
 
