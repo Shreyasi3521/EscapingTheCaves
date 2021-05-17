@@ -1,4 +1,5 @@
 # Level 5
+### EAEAE cypher (Variant of AES)
 ## Steps to reach ciphertext
 Go ---- Wave ---- dive ---- go ---- read --- password
 ## Decryption method used
