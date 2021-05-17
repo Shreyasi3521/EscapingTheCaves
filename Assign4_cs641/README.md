@@ -1,4 +1,5 @@
 # Level 4
+### Analyse and try to decrypt Data Encryption Standard
 ## Steps to reach the Cipher
 We used, go ---- jump ---- jump ---- back ---- pull, to get the magic wand. Then we went to level 3 of the game and used the command 'enter' ---- 'wave'. The spirit came out to help us and we came back again to level 4 and used the command read to get the problem statement.
 ## Cryptosystem
