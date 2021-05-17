@@ -1,4 +1,5 @@
 # Level 7 (Bonus)
+### SHA3 Encryption (Calculating inverse of Theta, Pi, Chi Functions)
 ## Steps to reach cipher text
 go--go--go--go--go--give--read
 ## Cipher text
