@@ -1,5 +1,5 @@
 # Level 6
-
+### The Maze: RSA Encryption (Coppersmith's Algorithm)
 ## Steps to Reach the cipher text
 exit3<br>
 exit2<br>
